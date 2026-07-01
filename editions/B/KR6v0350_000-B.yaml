@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0350/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩提道次恒修教授
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0051.xml
+    old_id: B10n0051
+hash: sha256:d670b1884af0ae653c22f55e30b46fe2bec6c6f81d52e63b126dd77973fc6138

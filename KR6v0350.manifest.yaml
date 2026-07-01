@@ -1,0 +1,79 @@
+canonical_identifier: bkk:krp/KR6v0350/v1
+canonical_location: https://kanripo.org/bkk/KR6v0350/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 菩提道次恒修教授
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0051.xml
+    old_id: B10n0051
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0350_000.yaml, hash: 'sha256:d670b1884af0ae653c22f55e30b46fe2bec6c6f81d52e63b126dd77973fc6138'}
+  - {seq: 1, filename: KR6v0350_001.yaml, hash: 'sha256:1d6cac3468a49709f14d4f8325f99f8948091c0eb50621240d0d5dfd6a5e466b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0350_001.markers.yaml, hash: 'sha256:e2d23b365ae4c0c376ef62afa3bc8fd40fb3f02a35fa2b6581d54423fbb466cb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0350_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 4174
+  label: 菩提道次恒修教授（四種）
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0350_B_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 菩提道次恆常修法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0350_B_001-mulu-2
+    span:
+    - body
+    - 700
+    - 700
+  label: 菩提道次第恆修補足
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0350_B_001-mulu-3
+    span:
+    - body
+    - 2211
+    - 2211
+  label: 修止記錄至極須要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0350_B_001-mulu-4
+    span:
+    - body
+    - 2914
+    - 2914
+  label: 恆常相續修止記錄極不宜離
+  type: mulu
+  level: 1
+hash: sha256:d16a6963ab59892ed6e51d57b04107ba3ee26a76bfb783597b82e2528a72c4b3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
