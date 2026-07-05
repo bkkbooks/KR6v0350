@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0350_000.yaml, hash: 'sha256:d670b1884af0ae653c22f55e30b46fe2bec6c6f81d52e63b126dd77973fc6138'}
-  - {seq: 1, filename: KR6v0350_001.yaml, hash: 'sha256:1d6cac3468a49709f14d4f8325f99f8948091c0eb50621240d0d5dfd6a5e466b'}
+  - {seq: 1, filename: KR6v0350_001.yaml, hash: 'sha256:80d6c4b6049ad0c0ca820791aee50e541218cbc9ee0b748703f36a98af251f61'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0350_001.markers.yaml, hash: 'sha256:e2d23b365ae4c0c376ef62afa3bc8fd40fb3f02a35fa2b6581d54423fbb466cb'}
+  - {seq: 0, role: markers, filename: assets/KR6v0350_000.markers.yaml, hash: 'sha256:455112437093b3ccb86d87274750875398908e64712af0c815802eda773bf3f6'}
+  - {seq: 1, role: markers, filename: assets/KR6v0350_001.markers.yaml, hash: 'sha256:1a794c811002caf32be537917c6ba294a083055a8adfa535a0ff15543efdc10e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -73,7 +74,4 @@ table_of_contents:
   label: 恆常相續修止記錄極不宜離
   type: mulu
   level: 1
-hash: sha256:d16a6963ab59892ed6e51d57b04107ba3ee26a76bfb783597b82e2528a72c4b3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2ffe470cb4d0b159cf8cc36900e390c79096f265908e33500048fc40ea670361
